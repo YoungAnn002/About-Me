@@ -1,0 +1,53 @@
+table, th, tr, td{
+    border: 1px solid black;
+    padding: 3px;
+    background-color: #EEEEEE;
+}
+table{
+    border: 3px dotted darkslategray;
+}
+th{
+    width: 120px;
+    justify-content: center;
+}
+td{
+    padding: 10px;
+}
+img{
+    float: right;
+    border: 8px dotted steelblue;
+    padding: 5px;
+}
+.Haiku{
+    text-align: center;
+}
+.arch{
+    background-color: wheat;
+}
+.jap{
+    background-color: pink;
+}
+.Cpro{
+    background-color: powderblue;
+}
+.webPro{
+    background-color: thistle;
+}
+.Math{
+    background-color: aquamarine;
+}
+.bad{
+    background-color: rgb(253, 255, 180);
+}
+html{
+    font-family:"Trebuchet MS";
+    font-size: 16pt;
+    background-image: url("Lines.jpg");
+    background-repeat: repeat;
+    color: rgb(16, 58, 67);
+}
+h1{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
